@@ -4,7 +4,11 @@
     <h3 align="center">A passionate fullstack web developer from Chile. I like challenges and soccer.</h3>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanLucasOFM18&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
 ### 👨‍💻 About Me :
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 📝 I am a student at the Universidad de Santiago de Chile (USACH).
 
@@ -13,7 +17,6 @@
 - 🌱 I’m currently learning **React.js**
 
 - ⚽ I love soccer, my team is Universidad Católica.
-
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
