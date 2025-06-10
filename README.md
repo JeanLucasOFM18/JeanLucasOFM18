@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 📝 Computer Engineer graduated from the University of Santiago de Chile.
+- 📝 Computer Engineer graduated from the Universidad de Santiago de Chile.
 
 - 📫 How to reach me **jeanlucasofm@gmail.com**
 
