@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s4ZXNwbTJka2VvdzZ5ZzltY2JrcHN4djlybjA5a3FmZXBnOXdnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQEoV4EXh9TrjBWc3d/giphy.gif" width="500" />
-    <h1 align="center">Hi 👋, I'm JeanLucasOFM18</h1>
-    <h3 align="center">A passionate fullstack web developer from Chile. I like challenges and soccer.</h3>
+    <h1 align="center">Hi 👋, I'm Jean Lucas Rivera</h1>
+    <h3 align="center">A passionate Frontend Developer from Chile. I like challenges and soccer.</h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeanLucasOFM18&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
@@ -29,6 +29,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
